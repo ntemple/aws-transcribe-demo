@@ -1,6 +1,6 @@
 {
   "name": "aws-transcribe-demo-backend",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Lambda functions for AWS Transcribe Demo.",
   "license": "MIT",
   "scripts": {
