@@ -7,7 +7,7 @@
     "node": ">=10"
   },
   "name": "aws-transcribe-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple AWS demo utilises Amazon Transcribe to convert audio to text and analyse.",
   "author": "Wenbo Jie <pinkyjie.gn@gmail.com>",
   "scripts": {
